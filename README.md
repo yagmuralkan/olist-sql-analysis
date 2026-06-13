@@ -33,6 +33,7 @@ customers
 - [ ] Product analysis
 - [ ] Shipping analysis
 - [ ] Advanced analysis
+- [ ] Revenue analysis
 ## Tools
 
 - PostgreSQL
