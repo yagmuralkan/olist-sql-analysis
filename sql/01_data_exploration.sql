@@ -36,3 +36,4 @@ SELECT
 FROM orders
 GROUP BY order_status
 ORDER BY total_orders DESC;
+
