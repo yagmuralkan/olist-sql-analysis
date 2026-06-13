@@ -37,3 +37,11 @@ FROM orders
 GROUP BY order_status
 ORDER BY total_orders DESC;
 
+-- customer numbers per cities
+
+SELECT 
+customer_city, 
+COUNT(distinct customer_id) as total_customers
+from customers 
+group by customer_city 
+order by total_customers DESC;
