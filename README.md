@@ -24,6 +24,15 @@ customers
 - Shipping analysis
 - Revenue analysis
 
+## Current Progress
+
+- [x] PostgreSQL setup
+- [x] Data import
+- [ ] Data exploration
+- [ ] Customer analysis
+- [ ] Product analysis
+- [ ] Shipping analysis
+- [ ] Advanced analysis
 ## Tools
 
 - PostgreSQL
